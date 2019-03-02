@@ -1,9 +1,13 @@
 # Grinold and Kroner Model
-A basic personal project I developed to help me conduct an initial calculation of expected annual equity returns based on the Grinold and Kroner model.
-The calculations are not meant to be final, but merely an overview to allow for quick comparisons, especially when I am unable to access Eikon or Bloomberg terminals.
-The project is still in its early stages and many of the calculations are relatively basic but I will be working to improve the calculations of each individual component to improve accuracy.
+My first personal python project I developed to help me conduct an initial calculation of expected annual equity returns based on the Grinold and Kroner model.
 
-### Prerequisites
+## Description
+
+Data is scraped from reliable sources such as Morningstar, Yahoo finance and Nasdaq. Calculations made are only basic estimates that are not meant to be final. This is to merely provide me with a quick overview and comparison, especially when I am unable to access Eikon or Bloomberg terminals.
+
+The project is still in its early stages and many of the calculations are relatively basic but I will be working to improve the calculations of each individual component to further improve accuracy.
+
+## Prerequisites
 
 [Python 3](https://www.python.org/), [bs4](http://www.crummy.com/software/BeautifulSoup/bs4/doc/), [csv](https://docs.python.org/3/library/csv.html), [datetime](https://docs.python.org/3/library/datetime.html), [http.client](https://docs.python.org/3/library/http.client.html), [json](https://docs.python.org/3/library/json.html), [numpy](http://www.numpy.org/), [pandas](http://pandas.pydata.org/), [pymysql](https://pypi.python.org/pypi/PyMySQL), [re](https://docs.python.org/3/library/re.html), [urllib.request](https://docs.python.org/3/library/urllib.request.html).
 
@@ -11,7 +15,7 @@ The project is still in its early stages and many of the calculations are relati
 
 ## Authors
 
-* **Wong Jia An** - *Initial work* - [jiaanwong](https://github.com/jiaanwong)
+* **Wong Jia An** - [jiaanwong](https://github.com/jiaanwong)
 
 
 ## License
