@@ -15,7 +15,7 @@ The project is still in its early stages and many of the calculations are relati
 
 ## Authors
 
-* **Wong Jia An** - [jiaanwong](https://github.com/jiaanwong)
+**Wong Jia An** - [jiaanwong](https://github.com/jiaanwong)
 
 
 ## License
